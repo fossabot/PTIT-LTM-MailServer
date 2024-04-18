@@ -38,6 +38,7 @@ Các thành phần trong kiến trúc giao tiếp với nhau như sau:
 # Preview giao diện
 Giao diên thư nhận
 ![Giao diện thư nhận](image/giao_dien_thu_nhan.jpg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMingHieu%2FPTIT-LTM-MailServer.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FMingHieu%2FPTIT-LTM-MailServer?ref=badge_shield)
 
 Giao diện thư đã gửi
 ![Giao diện thư nhận](image/giao_dien_thu_gui.png)
@@ -59,3 +60,7 @@ Tạo các account mới trên hmail server
 + Chặn thư theo domain
 + Chặn thư theo email nguồn
 + Chặn thư dựa trên từ khóa trong nội dung email
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMingHieu%2FPTIT-LTM-MailServer.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FMingHieu%2FPTIT-LTM-MailServer?ref=badge_large)
